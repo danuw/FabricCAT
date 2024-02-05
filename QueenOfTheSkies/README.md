@@ -165,7 +165,7 @@ Now you must complete the data mapping.
    1. ***MyDatabaseName*** is the name you chose originally for the database.
 1. Click ***Load*** and allow the report to connect and load data
 1. It may require you to sign in to authenticate if not done already
-1. ***Publish the report*** to your workspace
+1. ***Publish the report*** to your workspace and name it ***QueenOfTheSky_rpt*** when prompted
 
 [^ Table of content ^](#table-of-content)
 ## Run the demo
